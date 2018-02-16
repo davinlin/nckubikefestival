@@ -3352,7 +3352,7 @@ body {
       align-items: center;
       justify-content: center;
       left: 0;
-      top: 7vh;
+      top: 9vh;
       height: 50vh;
       width: 100vw; }
       .intro__logo--pic {
@@ -3369,7 +3369,7 @@ body {
       position: absolute;
       z-index: 20;
       left: 0;
-      top: 55vh;
+      top: 57vh;
       display: inline-block;
       background: #172a88;
       text-align: center;
@@ -3383,7 +3383,7 @@ body {
     .intro__cont {
       position: absolute;
       z-index: 30;
-      top: 55vh;
+      top: 57vh;
       margin-top: 15px;
       padding-left: 30px;
       height: 140px;
@@ -3405,13 +3405,12 @@ body {
     .intro__scroll {
       position: absolute;
       z-index: 50;
-      top: 78vh;
+      top: 90vh;
       left: 50vw; }
       .intro__scroll--1 {
         display: none; }
       .intro__scroll--2 {
         position: absolute;
-        background: url("../img/scroll_3.svg");
         margin-left: 10px;
         background-position: center center;
         background-repeat: no-repeat;
