@@ -96,7 +96,10 @@ $(document).ready(function(){
     $(".register__wheel--self").click(function(){
         window.open( "https://docs.google.com/forms/d/e/1FAIpQLSffgri9t91F6dgQVp0QRv3iii_ouQy8bMSbCLLCGOcGPZ9dDg/viewform" );
     })
-    
+
+    $(".video").click(function(){
+        window.open( "https://www.facebook.com/NCKUbikefestival/videos/1451397264988430/" );
+    })
 
 
     // Event List (Mobile)
