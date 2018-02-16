@@ -3411,7 +3411,6 @@ body {
         display: none; }
       .intro__scroll--2 {
         position: absolute;
-        background: url("../img/scroll_3.svg");
         margin-left: 10px;
         background-position: center center;
         background-repeat: no-repeat;
