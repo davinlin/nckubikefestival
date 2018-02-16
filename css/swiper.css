@@ -66,8 +66,8 @@
   -ms-flex-negative: 0;
   flex-shrink: 0;
   width: 100%;
-  top: 10%;
-  height: 80%;
+  top: 12%;
+  height: 76%;
   position: relative;
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
@@ -223,7 +223,7 @@
 .swiper-pagination-fraction,
 .swiper-pagination-custom,
 .swiper-container-horizontal > .swiper-pagination-bullets {
-  bottom: 0px;
+  bottom: 0;
   left: 0;
   width: 100%; }
 
@@ -314,7 +314,7 @@ button.swiper-pagination-bullet {
   transition: 200ms transform, 200ms top, 200ms -webkit-transform; }
 
 .swiper-container-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet {
-  margin: 0 4px; }
+  margin: 0px 4px; }
 
 .swiper-container-horizontal > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic {
   left: 50%;
