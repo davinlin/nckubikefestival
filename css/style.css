@@ -2419,6 +2419,7 @@ body {
     left: 0;
     right: 0;
     height: 100vh;
+    width: 100vw;
     margin: auto;
     overflow: hidden; }
     .dept__title {
@@ -2571,6 +2572,7 @@ body {
     left: 0;
     right: 0;
     height: 100vh;
+    width: 100vw;
     margin: auto;
     overflow: hidden; }
     .event::before {
@@ -3427,6 +3429,7 @@ body {
     left: 0;
     right: 0;
     height: 100vh;
+    width: 100vw;
     margin: auto; }
     .dept__title {
       position: relative;
@@ -3578,6 +3581,7 @@ body {
     left: 0;
     right: 0;
     height: 100vh;
+    width: 100vw;
     margin: auto;
     overflow: hidden; }
     .event::before {
