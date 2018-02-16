@@ -3352,7 +3352,7 @@ body {
       align-items: center;
       justify-content: center;
       left: 0;
-      top: 9vh;
+      top: 7vh;
       height: 50vh;
       width: 100vw; }
       .intro__logo--pic {
@@ -3369,7 +3369,7 @@ body {
       position: absolute;
       z-index: 20;
       left: 0;
-      top: 57vh;
+      top: 55vh;
       display: inline-block;
       background: #172a88;
       text-align: center;
@@ -3383,7 +3383,7 @@ body {
     .intro__cont {
       position: absolute;
       z-index: 30;
-      top: 57vh;
+      top: 55vh;
       margin-top: 15px;
       padding-left: 30px;
       height: 140px;
@@ -3405,7 +3405,7 @@ body {
     .intro__scroll {
       position: absolute;
       z-index: 50;
-      top: 80vh;
+      top: 78vh;
       left: 50vw; }
       .intro__scroll--1 {
         display: none; }
@@ -3568,9 +3568,9 @@ body {
       position: absolute;
       z-index: -1;
       top: 24vh;
-      left: -15vw;
+      left: 0vw;
       height: 60vh;
-      width: 130vw;
+      width: 100vw;
       background: url("../img/decoration_5.svg");
       background-position: center center;
       background-repeat: no-repeat;
@@ -3732,9 +3732,9 @@ body {
       position: absolute;
       z-index: -1;
       top: 24vh;
-      left: -15vw;
+      left: 0vw;
       height: 60vh;
-      width: 130vw;
+      width: 100vw;
       background: url("../img/decoration_6.svg");
       background-position: center center;
       background-repeat: no-repeat;
