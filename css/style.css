@@ -193,12 +193,11 @@ body {
         filter: brightness(20%); }
     .menu__burger {
       display: none; }
-    .menu__video {
+    .menu__option {
       position: fixed;
       z-index: 0;
       top: 50px;
       right: 50px;
-      background: url("../img/watch_vid.svg") #8ebde6;
       background-position: center center;
       background-repeat: no-repeat;
       background-size: contain;
@@ -207,9 +206,13 @@ body {
       transition: .3s ease;
       color: white;
       cursor: pointer; }
-      .menu__video:hover {
+      .menu__option.video {
+        background: url("../img/watch_vid.svg") #8ebde6; }
+      .menu__option.go_right {
+        background: url("../img/go_right.svg") #8ebde6; }
+      .menu__option:hover {
         background-color: #172a88; }
-      .menu__video:active {
+      .menu__option:active {
         background-color: black; }
     .menu__totop {
       position: fixed;
@@ -1263,12 +1266,11 @@ body {
         background-color: #172a88; }
       .menu__burger:active {
         background-color: black; }
-    .menu__video {
+    .menu__option {
       position: fixed;
       z-index: 0;
       top: 100px;
       right: 30px;
-      background: url("../img/watch_vid.svg") #8ebde6;
       background-position: center center;
       background-repeat: no-repeat;
       background-size: contain;
@@ -1277,9 +1279,13 @@ body {
       transition: .3s ease;
       color: white;
       cursor: pointer; }
-      .menu__video:hover {
+      .menu__option.video {
+        background: url("../img/watch_vid.svg") #8ebde6; }
+      .menu__option.go_right {
+        background: url("../img/go_right.svg") #8ebde6; }
+      .menu__option:hover {
         background-color: #172a88; }
-      .menu__video:active {
+      .menu__option:active {
         background-color: black; }
     .menu__totop {
       position: fixed;
@@ -2277,12 +2283,11 @@ body {
         background-color: #172a88; }
       .menu__burger:active {
         background-color: black; }
-    .menu__video {
+    .menu__option {
       position: fixed;
       z-index: 0;
       top: 100px;
       right: 30px;
-      background: url("../img/watch_vid.svg") #8ebde6;
       background-position: center center;
       background-repeat: no-repeat;
       background-size: contain;
@@ -2291,9 +2296,13 @@ body {
       transition: .3s ease;
       color: white;
       cursor: pointer; }
-      .menu__video:hover {
+      .menu__option.video {
+        background: url("../img/watch_vid.svg") #8ebde6; }
+      .menu__option.go_right {
+        background: url("../img/go_right.svg") #8ebde6; }
+      .menu__option:hover {
         background-color: #172a88; }
-      .menu__video:active {
+      .menu__option:active {
         background-color: black; }
     .menu__totop {
       position: fixed;
@@ -3284,17 +3293,20 @@ body {
       background-size: contain;
       height: 50px;
       width: 50px; }
-    .menu__video {
+    .menu__option {
       position: fixed;
       z-index: 0;
       top: 75px;
       right: 15px;
-      background: url("../img/watch_vid.svg") #8ebde6;
       background-position: center center;
       background-repeat: no-repeat;
       background-size: contain;
       height: 50px;
       width: 50px; }
+      .menu__option.video {
+        background: url("../img/watch_vid.svg") #8ebde6; }
+      .menu__option.go_right {
+        background: url("../img/go_right.svg") #8ebde6; }
     .menu__totop {
       position: fixed;
       z-index: 0;
